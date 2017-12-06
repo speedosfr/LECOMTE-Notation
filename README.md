@@ -1,4 +1,4 @@
 # LECOMTE-Notation
 
 * **Nom:** LECOMTE
-* **Prenom:** Laurent 
+* **Prenom:** Laurent
